@@ -1,11 +1,11 @@
-====================================================================
+
 Team 5071_1 | Final Project: Earthquake Database
 ====================================================================
 Course: CPSC 5071
-Team Members: Jordan Berke, Emily Larson, Jennifer Poling, Paul Skentzos
-Date: March 2026
-====================================================================
 
+Team Members: Jordan Berke, Emily Larson, Jennifer Poling, Paul Skentzos
+
+Date: March 2026
 
 Project Domain and Goals
 ------------------------
@@ -194,42 +194,3 @@ Technical Notes:
   - Coordinate System: WGS84 decimal degrees
   - Foreign Keys: Enabled via PRAGMA foreign_keys = ON
   - Transactions: Used in populate_tables.sql for atomicity
-
-
-Directory Structure
---------------------
-Team_5071_1_FinalProject_Week9/
-  README.md                                       This file
-  DirectoryStructure.md                           Visual directory map
-  database/
-    schema.sql                                    Week 3 -- 7-table 3NF schema
-    populate_tables.sql                           Week 3 -- staging to normalized migration
-    sample_data.sql                               Week 3 -- manual INSERT examples
-    team_5071_earthquakes.db                      Final database file
-    earthquakes_no_indexes.db                     Week 8 -- unoptimized baseline
-    earthquakes_with_indexes.db                   Week 8 -- optimized (same as final)
-  data/
-    earthquake1826_2026.csv                       Original Kaggle dataset
-    cleaned_data.csv                              Week 6 -- cleaned output
-    team7_final_data.csv                          Week 7 -- ETL-enriched output
-    v5_RCSFA_Geospatial_Site_Information.csv      Week 7 -- external PNNL dataset
-  scripts/
-    import_earthquakes.py                         Week 3 -- CSV to staging table loader
-    week6_multi_table_queries.sql                 Week 6 -- JOIN queries for pandas
-  queries/
-    test_queries.sql                              Week 3 -- SELECT queries
-    Team_5071_1_week4_queries.sql                 Week 4 -- JOINs and subqueries
-    before_optimization.sql                       Week 8 -- EXPLAIN before indexes
-    after_optimization.sql                        Week 8 -- EXPLAIN after indexes
-  notebooks/
-    data_cleaning.ipynb                           Week 6 -- pandas cleaning
-    etl_pipeline.ipynb                            Week 7 -- ETL pipeline
-    pandas_optimization.ipynb                     Week 8 -- pandas optimization
-  docs/
-    earthquake_erd_.drawio.png                    Week 2 -- Entity-Relationship Diagram
-    week3_readme.txt                              Week 3 -- README
-    Team_5071_1_week4_summary.docx                Week 4 -- README
-    Team_5071_1_ERDiagram.pdf                     Week 2 -- ERD documentation
-    week6_readme.txt                              Week 6 -- README
-    week7_readme.pdf                              Week 7 -- README
-    week8_readme.txt                              Week 8 -- README
