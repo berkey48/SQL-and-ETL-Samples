@@ -1,0 +1,682 @@
+Site_ID,Latitude,Longitude,IGSN,Description,Physiographic_Feature_Name,COMID,RawCOMID_Used,Country,Methods_and_Flags,Submission_Contact_Name,Submission_Contact_Email,Origin_Study_Code
+ALAC,29.434045,-98.519132,10.58052/IEWDR022E,stream,Alazan Creek,10840404,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+Altamaha (Tidal driven),31.337603,-81.48373,10.58052/IEWDR028E,stream,Altamaha,14352998,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,48hr
+APAC,29.414842,-98.514739,10.58052/IEWDR022C,stream,Apache Creek,10840420,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+BLU-BLU,44.1623,-122.332,10.58052/IEWDR00WM,stream,Blue River,23773405,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+BLU-TID,44.2179,-122.265,10.58052/IEWDR00WN,stream,Blue River below Tidbits Creek,23773429,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+BOU1,45.6449,-73.4774,10.58052/IEWDR01BX,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+BOU2,45.6462,-73.4637,10.58052/IEWDR01BW,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+BOU3,45.645,-73.4529,10.58052/IEWDR01BV,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+BOU4,45.5685,-73.5079,10.58052/IEWDR01BO,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+BR08,44.6006,-75.6606,10.58052/IEWDR01AQ,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+BR09,44.63438,-75.61223,10.58052/IEWDR01AO,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+BR11,44.79,-75.3714,10.58052/IEWDR01AX,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+BR12,44.8463,-75.2996,10.58052/IEWDR01AZ,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+BRO-LAP,43.7236,-121.796,10.58052/IEWDR00WO,stream,Brown Creek,23700569,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+C10,46.649199,-121.300698,10.58052/IEPRS00UK,stream,Clear Creek,24423347,TRUE,United States,COMID_Analysis_00; COMID_00,Allison Myers-Pigg,allison.myers-pigg@pnnl.gov,N/A
+C11,46.654386,-121.319166,10.58052/IEPRS00UL,stream,Clear Creek,24423347,TRUE,United States,COMID_Analysis_00; COMID_00,Allison Myers-Pigg,allison.myers-pigg@pnnl.gov,N/A
+C20,46.648074,-121.297724,10.58052/IEPRS00UM,stream,Clear Creek,24423347,TRUE,United States,COMID_Analysis_00; COMID_00,Allison Myers-Pigg,allison.myers-pigg@pnnl.gov,N/A
+C21,46.6399,-121.2901,10.58052/IEPRS00TV,stream,Clear Creek,24423347,TRUE,United States,COMID_Analysis_00; COMID_00,Allison Myers-Pigg,allison.myers-pigg@pnnl.gov,SSS
+CAC1,47.99,-69.72,10.58052/IEWDR01D5,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+CIC-DP,29.787553,-98.716049,10.58052/IEWDR022G,stream,Cibolo Creek,7850565,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+CIC-NP,29.810569,-98.748951,10.58052/IEWDR022H,stream,Cibolo Creek,7851005,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+"Columbia River, WA (Hydropower driven)",46.374321,-119.272549,10.58052/IEWDR028B,stream,Columbia River,24415028,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,48hr
+CON1,45.8594,-73.2928,10.58052/IEWDR01C8,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+CON1.5,45.8432,-73.3113,10.58052/IEWDR01C4,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+CON2,45.8561,-73.278,10.58052/IEWDR01C3,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+CON3,45.8494,-73.2715,10.58052/IEWDR01C2,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+Ct20,46.648153,-121.297706,10.58052/IEPRS00UN,stream,Clear Creek Tributary,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_24423347; Flag_00,Allison Myers-Pigg,allison.myers-pigg@pnnl.gov,N/A
+Ct21,46.649118,-121.299522,10.58052/IEPRS00UO,stream,Clear Creek Tributary,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_24423347; Flag_00,Allison Myers-Pigg,allison.myers-pigg@pnnl.gov,N/A
+CT-BUNN,41.7862,-72.965,10.58052/IEWDR00WP,stream,Bunnell Brook,6109247,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+CT-EBRA,44.6339,-71.8981,10.58052/IEWDR00WQ,stream,East Branch Passumpsic River,4570659,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+CT-FARM,41.9083,-72.7594,10.58052/IEWDR00WR,stream,Farmington River,6109717,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+CT-MOOS,44.5117,-71.8378,10.58052/IEWDR00WS,stream,Moose River,4570675,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+CT-NEPA,41.8207,-72.9701,10.58052/IEWDR00WT,stream,Nepaug River,6109457,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+CT-PASS,44.3656,-72.0393,10.58052/IEWDR00WU,stream,Passumpsic River,4572379,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+CT-PHEL,41.7998,-72.9649,10.58052/IEWDR00WV,stream,Phelps Brook,6109235,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+CT-POPE,44.4761,-72.125,10.58052/IEWDR00WW,stream,Pope Brook,4572347,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+CT-SLPR,44.4353,-72.0389,10.58052/IEWDR00WX,stream,Sleepers River,4572307,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+CT-STIL,41.9679,-73.0334,10.58052/IEWDR00WY,stream,Still River,6111419,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+CT-THOM,41.9872,-72.6058,10.58052/IEWDR00WZ,stream,Connecticut River,7700898,FALSE,United States,COMID_Analysis_00; COMID_06; COMID_05; RawCOMID_7699970; Flag_00,James Stegen,james.stegen@pnnl.gov,WROL
+CT-UNIO,41.7555,-72.887,10.58052/IEWDR00X0,stream,Farmington River at Unionville,6109643,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+CT-W9,44.4906,-72.1622,10.58052/IEWDR00X1,stream,W-9; Pope Brook Tributary,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_4572347; Flag_00,James Stegen,james.stegen@pnnl.gov,WROL
+CULC,29.499388,-98.708709,10.58052/IEWDR022D,stream,Culebra Creek,10835802,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+CUL-LAP,43.82276,-121.797685,10.58052/IEWDR00X2,stream,Cultus River,23700639,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+CW19,45.025,-74.6766,10.58052/IEWDR01BD,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+CW20,45.00262,-74.68841,10.58052/IEWDR01BE,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+CW21,45.00483,-74.65931,10.58052/IEWDR01BF,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+CW22,45.00738,-74.63775,10.58052/IEWDR01BI,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+CW23,45.0207,-74.5697,10.58052/IEWDR01BG,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+DES-BFA,43.9305,-121.412,10.58052/IEWDR00X3,stream,Deschutes River at Benham Falls,23700413,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+DES-LAP,43.814019,-121.777208,10.58052/IEWDR00X4,stream,Deschutes River at La Pine,23700583,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_05,James Stegen,james.stegen@pnnl.gov,WROL
+DES-MAD,44.742799,-121.229678,10.58052/IEWDR00X5,stream,Deschutes River near Madras,23719673,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+DES-MOO,45.6222,-120.9044,10.58052/IEWDR00X6,stream,Deschutes River near Biggs,23718705,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+DES-WIC,43.686204,-121.687328,10.58052/IEWDR00X7,stream,Deschutes River below Wikiup Reservoir,23700493,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+E020,44.05611111,-122.8277778,10.58052/IEPRS001U,stream,McKenzie River,23772789,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+E030,44.07027778,-122.77,10.58052/IEPRS001V,stream,McKenzie River,23772801,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+E040,44.125,-122.4694444,10.58052/IEPRS001W,stream,McKenzie River,23772909,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+E310,44.070619,-122.884631,10.58052/IEPRS00M7,stream,Camp Creek,23773487,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+E360,44.141016,-122.605426,10.58052/IEPRS001X,stream,Hatchery Creek,23774155,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+E390,44.146326,-122.572401,10.58052/IEPRS001P,stream,Gate Creek,23773469,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+E410,44.133096,-122.483071,10.58052/IEPRS001Q,stream,Bear Creek,23774225,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+E430,44.149595,-122.364665,10.58052/IEPRS001R,stream,Elk Creek,23774923,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+E431,44.138089,-122.372966,10.58052/IEPRS001Y,stream,Doris Creek,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_23772989; Flag_00,James Stegen,james.stegen@pnnl.gov,EWEB
+E432,44.143315,-122.368051,10.58052/IEPRS001Z,stream,Fern Creek,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_23772985; Flag_00,James Stegen,james.stegen@pnnl.gov,EWEB
+E440,44.125267,-122.529883,10.58052/IEPRS001S,stream,Marten Creek,23772889,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+E543,44.209191,-122.25725,10.58052/IEPRS0020,stream,Lookout Creek,23773411,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+E547,44.160261,-122.334339,10.58052/IEPRS001T,stream,Simmonds Creek,23773463,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,EWEB
+EAS-ALM,38.6644,-106.8475,10.58052/IEWDR00X8,stream,East River at Almont,1333418,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+EAS-BRA,38.9857545,-107.0027911,10.58052/IEWDR00X9,stream,Bradley Creek tributary  of East River,1332190,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_04,James Stegen,james.stegen@pnnl.gov,WROL
+EAS-PUM,38.9225691,-106.9508935,10.58052/IEWDR00XA,stream,East River pump house,1332754,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+EAS-ROC,38.9826927,-107.0051498,10.58052/IEWDR00XB,stream,Rock Creek tributary of East River,1332198,FALSE,United States,COMID_Analysis_00; COMID_06; RawCOMID_1332194; Flag_00,James Stegen,james.stegen@pnnl.gov,WROL
+EAS-RUS,38.9905473,-107.0065371,10.58052/IEWDR00XC,stream,Rustlers Creek tributary of East River,1332186,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_04,James Stegen,james.stegen@pnnl.gov,WROL
+East Fork Poplar Creek (Wastewater driven),35.966194,-84.358442,10.58052/IEWDR028C,stream,East Fork Poplar Creek,22125640,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,48hr
+G01,46.730815,-120.94124,10.58052/IEPRS01ED,Groundwater spring,N/A,-9999,N/A,United States,FLAG_01,James Stegen,james.stegen@pnnl.gov,PRT
+G02,46.727441,-120.811664,10.58052/IEPRS01EE,Groundwater well,N/A,-9999,N/A,United States,FLAG_01,James Stegen,james.stegen@pnnl.gov,PRT
+GUN-GRJ,38.9833,-108.45,10.58052/IEWDR00XD,stream,Gunnison River near Grand Junction,3232569,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+GUN-GUN,38.529203,-106.956087,10.58052/IEWDR00XE,stream,Gunnison River near Gunnison,3252665,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+GUN-R32,38.5172,-106.9956,10.58052/IEWDR00XF,stream,Gunnison River at Road 32,3252693,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+GUN-TUN,38.5292,-107.6483,10.58052/IEWDR00XG,stream,Gunnison River below Gunnison Tunnel,3252173,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_05,James Stegen,james.stegen@pnnl.gov,WROL
+"HJ Andrews, OR (Evapotranspiration driven)",44.206532,-122.256641,10.58052/IEWDR028A,stream,HJ Andrews,-9999,N/A,United States,COMID_Analysis_01; COMID_07,James Stegen,james.stegen@pnnl.gov,48hr
+HJA-WS1,44.208517,-122.256831,10.58052/IEWDR00XH,stream,HJ Andrews watershed 1,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_23773411; Flag_00,James Stegen,james.stegen@pnnl.gov,WROL
+HJA-WS2,44.213385,-122.243976,10.58052/IEWDR00XI,stream,HJ Andrews watershed 2,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_23773411; Flag_00,James Stegen,james.stegen@pnnl.gov,WROL
+HOPB,42.47168,-72.33038,10.58052/IEWDR01U6,stream,Hop Brook,7690025,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+IRQ1,44.5815,-75.679,10.58052/IEWDR01AW,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+IRQ1.5,44.736,-75.4524,10.58052/IEWDR01B0,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+IRQ2,44.8203,-75.314,10.58052/IEWDR01B1,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LDS-LAP,43.6892,-121.503,10.58052/IEWDR00XJ,stream,Little Deschutes River near La Pine,23706200,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+LEC-PR,29.542087,-98.631869,10.58052/IEWDR022A,stream,Leon Creek,10835090,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+LEC-RRP,29.631969,-98.609359,10.58052/IEWDR0227,stream,Leon Creek,10834984,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+LEC-VTH,29.59201,-98.60486,10.58052/IEWDR0225,stream,Leon Creek,10835044,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+LOO-BLU,44.2097,-122.257,10.58052/IEWDR00XK,stream,Lookout Creek near Blue River,23773411,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+LSF1,45.2255,-74.2521,10.58052/IEWDR01BA,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSF2,45.2083,-74.2327,10.58052/IEWDR01BC,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSF24,45.0378,-74.5253,10.58052/IEWDR01BH,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSF25,45.1262,-74.4916,10.58052/IEWDR01BJ,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSF26,45.181,-74.3737,10.58052/IEWDR01BK,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSF3,45.189,-74.2141,10.58052/IEWDR01BB,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSF3.5,45.3461,-73.9723,10.58052/IEWDR01AK,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSL1,45.4095,-73.8706,10.58052/IEWDR01BL,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSL13,44.8976,-75.17,10.58052/IEWDR01AY,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSL14,44.9908,-74.9473,10.58052/IEWDR01B8,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSL15,45.0099,-74.9389,10.58052/IEWDR01B9,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSL16,45.0138,-74.89,10.58052/IEWDR01B5,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSL17,45.0261,-74.8901,10.58052/IEWDR01B2,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSL18,45.0189,-74.8569,10.58052/IEWDR01B6,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSL2,45.3954,-73.843,10.58052/IEWDR01BM,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSL3,45.3816,-73.807,10.58052/IEWDR01BN,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSPA1,46.2663,-72.7154,10.58052/IEWDR01CI,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSPA3,46.2638,-72.6952,10.58052/IEWDR01CJ,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSPA4,46.2453,-72.6776,10.58052/IEWDR01CK,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSPM1,46.226,-72.8541,10.58052/IEWDR01CF,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSPM2,46.2033,-72.8251,10.58052/IEWDR01CH,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+LSPM3,46.1841,-72.8066,10.58052/IEWDR01CG,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+M01,46.7237694,-120.8146,10.58052/IEPRS00ZX,stream,Oak Creek,24423655,TRUE,United States,COMID_Analysis_01; COMID_00,James Stegen,james.stegen@pnnl.gov,PRT
+M01A,46.7284,-120.8099,10.58052/IEPRS01EC,Open field,N/A,-9999,N/A,United States,FLAG_01,James Stegen,james.stegen@pnnl.gov,PRT
+M02,46.729449,-120.936802,10.58052/IEPRS00ZU,stream,Oak Creek,24423673,TRUE,United States,COMID_Analysis_01; COMID_00,James Stegen,james.stegen@pnnl.gov,PRT
+M03,46.716332,-121.00993,10.58052/IEPRS00ZV,stream,Oak Creek,24423679,TRUE,United States,COMID_Analysis_01; COMID_00,James Stegen,james.stegen@pnnl.gov,PRT
+MART,45.792488,-121.92897,10.58052/IEWDR01U7,stream,Martha Creek,24505800,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MASS1,47.2429,-70.5521,10.58052/IEWDR01D1,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+MAYF,32.96156,-87.40832,10.58052/IEWDR01U8,stream,Mayfield Creek,18208464,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+MCK-WAL,44.06957,-122.772306,10.58052/IEWDR00XL,stream,McKenzie River near Walterville,23772801,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+MEDC,29.390361,-98.667079,10.58052/IEWDR022B,stream,Medio Creek,10835992,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+MENC,29.775353,-98.709637,10.58052/IEWDR0226,stream,Menger Creek,7851009,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+MP-100019,43.1798044,-70.8911464,10.58052/IEWDR01XN,stream,Bellamy River,5844986,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100020,43.0881,-71.2346,10.58052/IEWDR01KH,stream,Lamprey River,5848094,TRUE,United States,COMID_Analysis_01; COMID_02; COMID_04,James Stegen,james.stegen@pnnl.gov,CM
+MP-100021,43.0795,-71.0359,10.58052/IEWDR01KI,stream,North River,5848106,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100057,41.5236,-72.2067,10.58052/IEWDR01KJ,stream,Yantic River,-9999,N/A,United States,COMID_Analysis_01; COMID_07; RawCOMID_6168502; Flag_00,James Stegen,james.stegen@pnnl.gov,CM
+MP-100068,43.71559,-72.41875,10.58052/IEWDR01UD,stream,White River,6084503,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100166,42.7231,-73.1978,10.58052/IEWDR01KK,stream,Hoosic River,22290173,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100167,42.7638,-73.3372,10.58052/IEWDR01KL,stream,Little Hoosic River,22290155,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100201,42.5055,-73.5062,10.58052/IEWDR01KM,stream,Kinderhook Creek,6186124,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100379,39.96766,-75.185,10.58052/IEWDR01UL,stream,Schuylkill River,4784831,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100598,38.7819,-77.3884,10.58052/IEWDR01KN,stream,Pope's Head Creek,22339187,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+MP-100607,37.41459,-78.63541,10.58052/IEWDR01Y1,stream,Holiday Creek,8611825,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100656,35.3668,-77.4403,10.58052/IEWDR01KO,stream,Contentnea Creek,11574664,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100667,34.220658,-79.543785,10.58052/IEWDR01XZ,stream,Great Pee Dee River,9175254,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100670,33.6666,-79.8467,10.58052/IEWDR01KQ,stream,Black River,9090922,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100747,31.669166,-81.830278,10.58052/IEWDR01UO,stream,Altamaha,14347322,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100749,31.426667,-81.606667,10.58052/IEWDR01UP,stream,Altamaha,14353056,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100785,26.72027,-81.64963,10.58052/IEWDR01UM,stream,Caloosahatchee River,10247687,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100819,29.953092,-82.927775,10.58052/IEWDR01UI,stream,Suwannee River,2232693,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100981,30.423663,-85.032366,10.58052/IEWDR01XK,stream,Apalachicola River,2297254,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-100984,29.945472,-85.013591,10.58052/IEWDR01XL,stream,Apalachicola River,2298964,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101022,33.6052817,-86.7497169,10.58052/IEWDR01U9,stream,Five Mile Creek,18566327,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101142,37.0422,-80.5627,10.58052/IEWDR01L5,stream,Little River,6884184,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101143,37.3724,-80.8599,10.58052/IEWDR01KP,stream,New River,6908699,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101276,36.08252,-84.575253,10.58052/IEWDR01XO,stream,Crooked Fork,19710385,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101336,46.37655,-90.64121,10.58052/IEWDR01XM,stream,Bad River,1814999,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101527,43.4099,-83.965,10.58052/IEWDR01KR,stream,Saginaw River,13204443,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101583,46.804,-96.798,10.58052/IEWDR01KS,stream,Red River of the North,6667885,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101584,46.9316,-96.78201,10.58052/IEWDR01Y7,stream,Red River of the North,6667827,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101897,38.9329146,-90.3068491,10.58052/IEWDR01Y5,stream,Mississippi River,880824,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+MP-101898,38.86168,-90.13425,10.58052/IEWDR01Y4,stream,Mississippi River,880648,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101915,45.5974,-110.566,10.58052/IEWDR01KT,stream,Yellowstone River,4366016,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-101929,44.847593,-107.305985,10.58052/IEWDR01Y9,stream,Tongue River,5336835,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102055,39.76778,-94.8625,10.58052/IEWDR01UJ,stream,MO River,2252949,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102063,38.984876,-94.973106,10.58052/IEWDR01U5,stream,Kansas River,3730389,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102203,34.675166,-92.161779,10.58052/IEWDR01Y8,stream,Arkansas River,22848175,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102277,30.1982931,-92.4631118,10.58052/IEWDR01UB,stream,Bayou Plaqemarine,15140491,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102281,30.189567,-92.590164,10.58052/IEWDR01UN,stream,Mermentau River,15096243,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102321,29.7624,-95.55825,10.58052/IEWDR01Y0,stream,Buffalo Bayou,1439297,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102322,29.3338,-95.2832,10.58052/IEWDR01KU,stream,Chocolate Bayou,1566256,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102327,31.1355617,-96.8252242,10.58052/IEWDR01UF,stream,Brazos River,5555562,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102337,30.75244,-98.67373,10.58052/IEWDR021T,stream,Llano River,5771725,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102338,30.2457,-97.6915,10.58052/IEWDR01KV,stream,Lower Colorado River,5781917,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+MP-102340,28.8318,-96.5783,10.58052/IEWDR01KW,stream,Lavaca River/Estuary,7843181,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+MP-102358,28.461375,-98.190709,10.58052/IEWDR01XF,stream,Frio River,10664258,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102385,35.776694,-105.658917,10.58052/IEWDR01UK,stream,Rio Mora,20815146,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+MP-102398,39.844312,-105.751041,10.58052/IEWDR01UQ,stream,Fraser River,1239663,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102420,38.85626,-107.05596,10.58052/IEWDR01XY,stream,Coal Creek,1332234,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102534,39.52207,-119.97538,10.58052/IEWDR01Y6,stream,Truckee,8932036,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102600,37.7323106,-121.10824,10.58052/IEWDR01U4,stream,Stanislaus River,2821830,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102602,38.1490173,-121.2992935,10.58052/IEWDR01XJ,stream,Mokelumne River,3953581,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102695,48.8186,-122.5806,10.58052/IEWDR01KY,stream,Nooksack River,23955772,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-102901,46.7322,-117.1805,10.58052/IEWDR01KZ,stream,South Fork Palouse,23459939,TRUE,United States,COMID_Analysis_01; COMID_02; COMID_05,James Stegen,james.stegen@pnnl.gov,CM
+MP-102944,45.7124168,-123.7629212,10.58052/IEWDR01YA,stream,Nehalem River,23871899,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-103021,34.42521,-81.60461,10.58052/IEWDR01XT,stream,Indian creek,9693728,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-103034,33.9959631,-80.9569115,10.58052/IEWDR01XU,stream,Wildcat Creek,9680956,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-103089,41.3825,-72.8972,10.58052/IEWDR01L0,stream,Mill River,6177260,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-103149,35.8365411,-78.782094,10.58052/IEWDR01UR,stream,Crabtree Creek,8785913,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-103224,35.689577,-82.593379,10.58052/IEWDR01XP,stream,Reems Creek,22160728,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-103357,33.9485,-117.6118,10.58052/IEWDR01L1,stream,Cucamonga Creek,22563070,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+MP-103380,34.16866,-116.831793,10.58052/IEWDR01XI,stream,South Fork Santa Ana River,22559686,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-103531,39.0073,-121.5804,10.58052/IEWDR01KX,stream,Bear/Feather River,7972667,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+MP-103594,39.4803,-106.0468,10.58052/IEWDR01L3,stream,Blue River,1314635,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-103805,40.1047,-77.1803,10.58052/IEWDR01L4,stream,Mountain Creek,4711518,FALSE,United States,COMID_Analysis_01; COMID_06; COMID_05; RawCOMID_4711522; Flag_00,James Stegen,james.stegen@pnnl.gov,CM
+MP-103975,40.66522,-111.84597,10.58052/IEWDR01UC,stream,Big Cottonwood Creek,10389524,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+MP-104218,45.537135,-122.379308,10.58052/IEWDR01US,stream,Beaver Creek,23737123,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+NF01,46.742847,-120.929651,10.58052/IEPRS00ZT,stream,North Fork Oak Creek,24424703,TRUE,United States,COMID_Analysis_01; COMID_00,James Stegen,james.stegen@pnnl.gov,PRT
+Nisqually (Glacial melt driven),46.73861111,-121.9180556,10.58052/IEWDR028D,stream,Nisqually,24282182,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,48hr
+OLC-DR,29.479885,-98.479996,10.58052/IEWDR0229,stream,Olmos Creek,10840810,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,AV1
+ONT1,44.1923,-76.5755,10.58052/IEWDR01AL,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+ONT2,44.1923,-76.3964,10.58052/IEWDR01AM,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+ORL2,47.0044,-70.7079,10.58052/IEWDR01CZ,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+ORL3,46.9782,-70.687,10.58052/IEWDR01D0,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+QC1,46.8426,-71.1815,10.58052/IEWDR01CX,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+QC2,46.8377,-71.1647,10.58052/IEWDR01CW,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+QC3,46.8349,-71.1566,10.58052/IEWDR01CV,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+QC4,46.8226,-71.2081,10.58052/IEWDR01CY,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+REP1,45.7427,-73.4338,10.58052/IEWDR01BZ,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+REP2,45.7416,-73.4243,10.58052/IEWDR01C0,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+REP3,45.7445,-73.4062,10.58052/IEWDR01C1,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+REP4,45.7361,-73.4117,10.58052/IEWDR01BY,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+S000001,44.16357,-122.332589,10.58052/IEWDR026A,stream,Blue River,23773405,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000002,44.219477,-122.24108,10.58052/IEWDR026B,stream,WS3,-9999,N/A,United States,COMID_Analysis_01; COMID_07,James Stegen,james.stegen@pnnl.gov,Minikits
+S000003,44.207386,-122.258178,10.58052/IEWDR026C,stream,WS1,-9999,N/A,United States,COMID_Analysis_01; COMID_07,James Stegen,james.stegen@pnnl.gov,Minikits
+S000004,44.217143,-122.260991,10.58052/IEWDR026D,stream,WS10,-9999,N/A,United States,COMID_Analysis_01; COMID_07,James Stegen,james.stegen@pnnl.gov,Minikits
+S000005,44.210012,-122.257614,10.58052/IEWDR026E,stream,Lookout Creek,23773411,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000006,44.212101,-122.244663,10.58052/IEWDR026F,stream,WS2,-9999,N/A,United States,COMID_Analysis_01; COMID_07,James Stegen,james.stegen@pnnl.gov,Minikits
+S000007,44.124286,-122.468282,10.58052/IEWDR026G,stream,McKenzie River,23772909,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000008,35.091,-106.683,10.58052/IEWDR026H,stream,Rio Grande,17819068,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000009,46.254,-119.473454,10.58052/IEWDR026I,stream,Yakima,947030105,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,Minikits
+S000010,46.54,-120.48,10.58052/IEWDR026J,stream,Ahtanum Creek,1.70E+13,FALSE,United States,COMID_Analysis_01; RawCOMID_947030125; Flag_00,James Stegen,james.stegen@pnnl.gov,Minikits
+S000011,35.999387,-84.298959,10.58052/IEWDR026K,stream,East Fork Poplar Creek,22124902,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000012,36.001921,-84.249506,10.58052/IEWDR026L,stream,East Fork Poplar Creek,22124290,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000013,35.966354,-84.357576,10.58052/IEWDR026M,stream,East Fork Poplar Creek,22125640,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000014,30.245112,-97.695781,10.58052/IEWDR026N,stream,Lower Colorado River,5781919,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,Minikits
+S000017,46.90567,-123.98005,10.58052/IEWDR026O,stream,Beaver Creek,23861269,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000019,46.90567,-123.98005,10.58052/IEWDR026P,stream,Beaver Creek,23861269,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000022,38.509976,-122.883578,10.58052/IEWDR026Q,stream,Russian River,8272693,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000023,38.494121,-122.85312,10.58052/IEWDR026R,stream,Mark West Creek,8273161,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000026,41.733333,-88.333556,10.58052/IEWDR026S,stream,Fox River,14762989,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000030,38.922791,-106.949624,10.58052/IEWDR026T,stream,East River,1332754,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000032,38.957586,-106.987644,10.58052/IEWDR026U,stream,Copper Creek,1332672,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000035,39.99883,-83.023911,10.58052/IEWDR026V,stream,Olentangy,5218153,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,Minikits
+S000036,41.38247,-82.514685,10.58052/IEWDR026W,stream,Old Woman Creek,15604070,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000044,46.37,-119.27,10.58052/IEWDR026X,stream,Columbia River,24415028,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000045,46.373014,-119.272266,10.58052/IEWDR026Y,stream,Columbia River,24415028,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000051,35.1946592,-106.6429675,10.58052/IEWDR026Z,stream,Rio Grande,17819088,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000052,35.7783973,-106.6895806,10.58052/IEWDR0270,stream,Jemez River,17826456,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000054,46.373104,-119.272205,10.58052/IEWDR0271,stream,Columbia River,24415028,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000055,46.373073,-119.272254,10.58052/IEWDR0272,stream,Columbia River,24415028,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000056,46.347558,-119.280801,10.58052/IEWDR0273,stream,Columbia River,24415128,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000059,39.238368,-84.711626,10.58052/IEWDR0274,stream,Great Miami River,3886082,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000060,46.372781,-119.271912,10.58052/IEWDR0275,stream,Columbia River,24415028,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000061,60.532685,-145.380946,10.58052/IEWDR0276,stream,Tributary to the Sheridan Glacier River,-9999,N/A,United States,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000062,60.516477,-144.862757,10.58052/IEWDR0277,stream,Copper River,-9999,N/A,United States,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000063,46.372979,-119.272181,10.58052/IEWDR0278,stream,Columbia River,24415028,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000065,69.12972222,-104.9944444,10.58052/IEWDR0279,stream,Freshwater Creek,-9999,N/A,Canada,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000073,46.359512,-119.271805,10.58052/IEWDR027A,stream,Columbia River,24415028,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000084,46.50219021,-119.2606988,10.58052/IEWDR027B,stream,Columbia River,1.70E+13,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000085,46.587056,-119.368194,10.58052/IEWDR027C,stream,Columbia River,947020557,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000086,-36.554713,147.405241,10.58052/IEWDR027D,stream,Snowy Creek,-9999,N/A,Australia,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000087,-35.47952,144.830925,10.58052/IEWDR027E,stream,Wakool River,-9999,N/A,Australia,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000098,37.0449,-122.0714,10.58052/IEWDR027F,stream,San Lorenzo River,17682474,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000110,38.957586,-106.987644,10.58052/IEWDR027G,stream,Copper Creek,1332672,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000112,38.922889,-106.949556,10.58052/IEWDR027H,stream,East River,1332754,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000125,35.193491,-106.643465,10.58052/IEWDR027I,stream,Rio Grande,17819088,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000126,35.827687,-106.643643,10.58052/IEWDR027J,stream,East Fork Jemez River,17826372,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,Minikits
+S000127,34.949722,-106.681195,10.58052/IEWDR027K,stream,Rio Grande,17808622,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000128,35.847429,-106.491267,10.58052/IEWDR027L,stream,East Fork Jemez River,17826274,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,Minikits
+S000129,35.668419,-106.743579,10.58052/IEWDR027M,stream,Jemez River,17826716,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000130,35.778372,-106.689537,10.58052/IEWDR027N,stream,Jemez River,17826456,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000132,47.3965,-121.3812,10.58052/IEWDR027O,stream,Gold Creek,24126189,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000134,46.41963,-120.3332,10.58052/IEWDR027P,stream,Yakima River,23099786,FALSE,United States,COMID_Analysis_01; RawCOMID_23102238; Flag_00,James Stegen,james.stegen@pnnl.gov,Minikits
+S000140,35.609161,-82.5780199,10.58052/IEWDR027Q,stream,French Broad River,22162094,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000141,35.9614998,-83.1734237,10.58052/IEWDR027R,stream,Pigeon,22150581,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,Minikits
+S000142,34.9729394,-90.8852547,10.58052/IEWDR027S,stream,L' Anguille,22865239,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,Minikits
+S000143,36.1849251,-85.9063167,10.58052/IEWDR027T,stream,Caney Fork,18421703,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000144,40.108128,-83.034656,10.58052/IEWDR027U,stream,Olentangy,5215055,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,Minikits
+S000145,40.096636,-83.110276,10.58052/IEWDR027V,stream,Scioto River,5215671,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000148,35.5684757,-82.5451142,10.58052/IEWDR027W,stream,Swannanoa,22161688,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,Minikits
+S000155,46.732372,-117.1808777,10.58052/IEWDR027X,stream,South Fork Palouse River,23459939,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000156,46.7323325,-117.1808314,10.58052/IEWDR027Y,stream,South Fork Palouse River,23459939,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000157,46.732345,-117.18081,10.58052/IEWDR027Z,stream,South Fork Palouse River,23459939,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000166,38.863608,-107.03354,10.58052/IEWDR0280,stream,Coal Creek,1332234,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,Minikits
+S000173,68.28346,-149.37181,10.58052/IEWDR0281,stream,Trevor Creek,-9999,N/A,United States,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000174,68.64316,-149.40315,10.58052/IEWDR0282,stream,Kuparak,-9999,N/A,United States,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000175,68.686,-149.09898,10.58052/IEWDR0283,stream,Oksrukuyik,-9999,N/A,United States,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000188,-29.50064,30.2206,10.58052/IEWDR0284,stream,Mzimvubu River,-9999,N/A,South Africa,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000189,-30.85071,29.06927,10.58052/IEWDR0285,stream,Tsomo River,-9999,N/A,South Africa,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000191,-24.028378,30.168665,10.58052/IEWDR0286,stream,Thabina River,-9999,N/A,South Africa,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000192,-29.49912,30.22189,10.58052/IEWDR0287,stream,Umgeni,-9999,N/A,South Africa,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000251,27.7,85.3,10.58052/IEWDR0288,stream,Bishnumati,-9999,N/A,Nepal,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S000252,27.667,85.167,10.58052/IEWDR0289,stream,Bagmati,-9999,N/A,Nepal,COMID_08,James Stegen,james.stegen@pnnl.gov,Minikits
+S01,46.976,-121.1579,10.58052/IEPRS00TW,stream,American River,24422913,FALSE,United States,COMID_Analysis_00; COMID_06; RawCOMID_24422911; Flag_00,James Stegen,james.stegen@pnnl.gov,SSS
+S02,46.9754,-121.158,10.58052/IEPRS00TX,stream,Bumping River,24422975,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S03,47.0195,-121.1285,10.58052/IEPRS00TY,stream,Quartz Creek,24423897,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S04,46.8099,-121.0672,10.58052/IEPRS00TZ,stream,North Fork Rattlesnake Creek,24423139,FALSE,United States,COMID_Analysis_00; COMID_06; RawCOMID_24423137; Flag_00,James Stegen,james.stegen@pnnl.gov,SSS
+S08,47.0171,-121.1357,10.58052/IEPRS00U0,stream,Little Naches River,24422831,TRUE,United States,COMID_Analysis_00; COMID_00; COMID_05,James Stegen,james.stegen@pnnl.gov,SSS
+S10,46.8095,-121.0675,10.58052/IEPRS00U1,stream,Rattlesnake Creek,24423157,FALSE,United States,COMID_Analysis_00; COMID_06; RawCOMID_24423137; Flag_00,James Stegen,james.stegen@pnnl.gov,SSS
+S11,46.9006,-121.2466,10.58052/IEPRS00U2,stream,Bumping River,24422999,TRUE,United States,COMID_Analysis_00; COMID_00; COMID_05,James Stegen,james.stegen@pnnl.gov,SSS
+S12,47.05638,-121.26788,10.58052/IEPRS00UP,stream,South Fork Little Naches River,24422871,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S13R,47.420551,-121.086972,10.58052/IEPRS007V,stream,Cle Elum River,24125883,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S14,47.41986,-121.087854,10.58052/IEPRS007W,stream,Waptus River,24125945,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S15,47.363498,-121.106919,10.58052/IEPRS007X,stream,Thorp Creek,24126041,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S16,47.42067,-121.14629,10.58052/IEPRS00UQ,stream,Cooper River,24126011,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S17,47.39473,-121.10328,10.58052/IEPRS00UR,stream,Cooper River,24125999,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S17R,47.394429,-121.10174,10.58052/IEPRS007Y,stream,Cooper River,24125999,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S18,47.39479,-121.09626,10.58052/IEPRS00US,stream,Cle Elum River,24125873,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S18R,47.39603,-121.096933,10.58052/IEPRS007Z,stream,Cle Elum River,24125873,TRUE,United States,COMID_Analysis_00; COMID_00; COMID_05,James Stegen,james.stegen@pnnl.gov,SPS
+S19,47.258225,-120.904118,10.58052/IEPRS0080,stream,West Fork Teanaway River,24125729,TRUE,United States,COMID_Analysis_00; COMID_00; COMID_05,James Stegen,james.stegen@pnnl.gov,SPS
+S19E,47.255067,-120.878922,10.58052/IEPRS0081,stream,North Fork Teanaway River,24125633,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S19S_0001,49.38609,-121.45047,10.58052/IEWDR00OJ,stream,Fraser,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0003,50.6888,-120.36647,10.58052/IEWDR00OK,stream,Thompson,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0004,50.7751,-119.72196,10.58052/IEWDR00OL,stream,South Thompson,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0005,49.86887,-97.40781,10.58052/IEWDR00OM,stream,Assiniboine,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0006,39.311369,-76.717163,10.58052/IEWDR00ON,stream,Dead Run,11689186,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0007,37.05255,-119.195598,10.58052/IEWDR00OO,stream,Providence Creek / KREW's P304 creek,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_22047841; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0008,36.961112,-119.027785,10.58052/IEWDR00OP,stream,Teakettle T003 stream,22050323,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0009,42.9877,-108.3983,10.58052/IEWDR00OQ,stream,Little Wind River,12890609,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0010,31.667875,-81.840062,10.58052/IEWDR00OR,stream,Altamaha,14347322,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0011,33.955686,-83.437674,10.58052/IEWDR00OS,stream,Middle Oconee,1049671,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0012,42.47179,-72.33027,10.58052/IEWDR00OT,stream,Hop Brook,7690025,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0013,38.8952,-78.1476,10.58052/IEWDR00OU,stream,Posey Creek,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_5906765; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0014,39.0941,-77.9808,10.58052/IEWDR00OV,stream,Lewis Run,8444872,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0015,31.184396,-84.439009,10.58052/IEWDR00OW,stream,Flint River,3424530,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0016,39.10445,-96.6025,10.58052/IEWDR00OX,stream,King's Creek,18841314,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_05,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0017,38.94668,-96.44355,10.58052/IEWDR00OY,stream,McDiffett Creek,3649284,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0018,35.6922935,-83.504941,10.58052/IEWDR00OZ,stream,LeConte Creek,22144520,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0019,35.9563807,-84.278999,10.58052/IEWDR00P0,stream,Walker Branch,22125024,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0020,31.85294,-88.15755,10.58052/IEWDR00P1,stream,Tombigbee River,18548456,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0021,32.54069,-87.79835,10.58052/IEWDR00P2,stream,Black Warrior,18211220,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0022,32.96161,-87.40811,10.58052/IEWDR00P3,stream,Mayfield Creek,18208464,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_05,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0023,39.75841,-102.44896,10.58052/IEWDR00P4,stream,Arikaree River,11722717,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0024,34.44205,-96.6227,10.58052/IEWDR00P5,stream,Blue River,698676,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0025,33.37853,-97.78275,10.58052/IEWDR00P6,stream,Pringle Creek,1306285,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0026,40.03489,-105.54327,10.58052/IEWDR00P7,stream,Como Creek,2889452,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0027,39.89064,-105.91125,10.58052/IEWDR00P8,stream,West St. Louis Creek,1239639,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_04,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0028,33.750675,-111.507871,10.58052/IEWDR00P9,stream,Sycamore Creek,20440650,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0029,40.78319,-111.80126,10.58052/IEWDR00PA,stream,Red Butte Creek,10389356,FALSE,United States,COMID_Analysis_00; COMID_06; COMID_03; RawCOMID_10389424; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0030,45.792348,-121.929131,10.58052/IEWDR00PB,stream,Martha Creek,24505800,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0031,44.2602628,-122.1650676,10.58052/IEWDR00PC,stream,McRae Creek,23773423,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0032,39.95545,-119.02313,10.58052/IEWDR00PD,stream,Teakettle 2 Creek,11323962,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_04,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0033,37.0576,-119.2554,10.58052/IEWDR00PE,stream,Big Creek,22048111,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0034,35.8677,-106.5233,10.58052/IEWDR00PF,stream,La Jara,17827558,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0035,32.42735,-110.757838,10.58052/IEWDR00PG,stream,Marshall Gulch,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_15895198; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0036,46.372515,-119.271902,10.58052/IEWDR00PH,stream,Columbia,24415028,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0037,39.8577967,-75.7830393,10.58052/IEWDR00PI,stream,White Clay Creek,4650944,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0038,39.8594333,-75.7839486,10.58052/IEWDR00PJ,stream,White Clay Creek,4650944,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0039,35.966194,-84.359197,10.58052/IEWDR00PK,stream,East Fork Poplar Creek,22125640,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0040,39.087889,-96.584725,10.58052/IEWDR00PL,stream,Kings Creek (N04D),18841358,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0041,44.299994,-120.858196,10.58052/IEWDR00PM,stream,Crooked River,23713956,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0042,25.40976,-80.96434,10.58052/IEWDR00PN,stream,Shark River Slough,90060,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_05,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0043,43.14501,-89.472992,10.58052/IEWDR00PO,stream,Dorn Creek,13294176,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0044,33.131027,-79.811134,10.58052/IEWDR00PP,stream,Huger Creek,9643259,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0045,52.475193,13.631299,10.58052/IEWDR00PQ,stream,Erpe River sidechannel,-9999,N/A,Germany,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0046,61.67559,7.21246,10.58052/IEWDR00PR,stream,Nigardsbreen River,-9999,N/A,Norway,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0047,68.64278,-149.40333,10.58052/IEWDR00PS,stream,Kuparuk River,-9999,N/A,United States,COMID_Analysis_00; COMID_08; RawCOMID_23953863; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0048,18.10996,-66.98618,10.58052/IEWDR00PT,stream,Rio Cupeyes,-9999,N/A,United States,COMID_Analysis_00; COMID_08; RawCOMID_16745431; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0049,18.17443,-66.80038,10.58052/IEWDR00PU,stream,Rio Guilarte,-9999,N/A,United States,COMID_Analysis_00; COMID_08; RawCOMID_16745431; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0050,68.66953,-149.14198,10.58052/IEWDR00PV,stream,Oksrukuyik Creek,-9999,N/A,United States,COMID_Analysis_00; COMID_08; RawCOMID_23953863; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0051,65.1531,-147.50267,10.58052/IEWDR00PW,stream,Caribou Creek,-9999,N/A,United States,COMID_Analysis_00; COMID_08; RawCOMID_23953863; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0052,42.13187,-74.69563,10.58052/IEWDR00PX,stream,Platte Kill,1748723,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0053,41.869567,-73.00222222,10.58052/IEWDR00PY,stream,Farmington,6109169,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_04,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0054,37.57261,-77.0237,10.58052/IEWDR00PZ,stream,Pamunkey River,8508050,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0055,46.732428,-117.180863,10.58052/IEWDR00Q0,stream,South Fork Polouse,23459937,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_05,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0056,35.1632,128.9646,10.58052/IEWDR00Q1,stream,Nakdong,-9999,N/A,South Korea,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0057,33.337475,-81.718207,10.58052/IEWDR00Q2,stream,Tims Branch,22722273,FALSE,United States,COMID_Analysis_00; COMID_06; COMID_03; RawCOMID_22722263; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0058,32.89919667,35.6136003,10.58052/IEWDR00Q3,stream,Jordan River,-9999,N/A,Israel,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0059,48.16874998,-117.3915976,10.58052/IEWDR00Q4,stream,Heel Creek tributary,23027050,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0060,46.2531882,-119.4768203,10.58052/IEWDR00Q5,stream,Yakima River,947030106,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0061,43.1095,-89.6407,10.58052/IEWDR00Q6,stream,Black Earth Creek,13633173,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0062,38.544583,-106.950417,10.58052/IEWDR00Q7,stream,Gunnison River,3252637,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0063,30.250335,-97.709399,10.58052/IEWDR00Q8,stream,Lower Colorado,5781919,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0064,40.61043,-78.00803,10.58052/IEWDR00Q9,stream,Shavers Creek,4682628,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0065,38.509458,-122.888357,10.58052/IEWDR00QA,stream,Russian River,8272693,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0066,35.19845,-106.643178,10.58052/IEWDR00QB,stream,Rio Grande,17819084,FALSE,United States,COMID_Analysis_00; COMID_06; COMID_05; RawCOMID_17806172; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0067,42.3921,-85.35412,10.58052/IEWDR00QC,stream,Augusta Creek,3473077,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0068,44.207316,-122.258091,10.58052/IEWDR00QD,stream,Watershed 01 stream,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_23773411; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0069,39.362202,-123.735151,10.58052/IEWDR00QE,stream,North Fork Caspar Creek,2663987,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0070,39.339914,-123.752414,10.58052/IEWDR00QF,stream,South Fork Caspar Creek,2665551,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0071,40.012917,-105.458575,10.58052/IEWDR00QG,stream,Gordon Creek,2889384,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0072,42.5235645,-71.1848201,10.58052/IEWDR00QH,stream,Sawmill Brook,5862611,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_04,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0073,42.7688065,-70.9164986,10.58052/IEWDR00QI,stream,Cart Creek,5860599,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0074,46.376172,-119.272998,10.58052/IEWDR00QJ,stream,Columbia,24415028,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0075,46.694742,-119.465555,10.58052/IEWDR00QK,stream,Columbia,947020558,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0076,46.679191,-119.462605,10.58052/IEWDR00QL,stream,Columbia,947020557,FALSE,United States,COMID_Analysis_00; COMID_06; COMID_05; RawCOMID_947020558; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0077,40.66403,-105.223141,10.58052/IEWDR00QM,stream,Cache La Poudre,2900705,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0078,43.43138889,-123.5855556,10.58052/IEWDR00QN,stream,Little Wolf Creek,24526862,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0079,43.6369,-123.5721,10.58052/IEWDR00QO,stream,Umpqua,24526798,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0080,34.950811,-106.681374,10.58052/IEWDR00QP,stream,Rio Grande,17808622,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0081,38.960004,-76.9261495,10.58052/IEWDR00QQ,stream,Northeast Branch of Anacostia,22337975,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_05,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0082,38.8748619,-76.5465418,10.58052/IEWDR00QR,stream,Muddy Creek,8380297,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0083,40.31083,-88.3227,10.58052/IEWDR00QS,stream,Sangamon,13571661,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0084,43.954722,-71.722778,10.58052/IEWDR00QT,stream,Watershed 3 stream,-9999,N/A,United States,COMID_Analysis_00; COMID_07; RawCOMID_6729679; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0085,43.6479639,-115.9902503,10.58052/IEWDR00QU,stream,Mores Creek,23382303,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0086,40.7797,-111.8064,10.58052/IEWDR00QV,stream,Red Butte Creek,10389356,FALSE,United States,COMID_Analysis_00; COMID_06; COMID_03; RawCOMID_10389424; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0087,43.1233451,-116.7743431,10.58052/IEWDR00QW,stream,Dobson Creek,23302298,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0089,37.21008,-80.44539,10.58052/IEWDR00QX,stream,Stroubles Creek,6883680,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0090,37.291383,-75.930606,10.58052/IEWDR00QY,stream,Cobb Mill Creek,12058092,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0091,60.520868,-144.837472,10.58052/IEWDR00QZ,stream,Copper River,-9999,N/A,United States,COMID_Analysis_00; COMID_08; RawCOMID_23953863; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0092,52.419447,-1.704013,10.58052/IEWDR00R0,stream,Blythe,-9999,N/A,United Kingdom,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0093,52.800556,-2.304833,10.58052/IEWDR00R1,stream,Wood Brook,-9999,N/A,United Kingdom,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0094,18.2754452,-65.7852826,10.58052/IEWDR00R2,stream,Icacos,-9999,N/A,United States,COMID_Analysis_00; COMID_08; RawCOMID_16745431; Flag_00,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0096,45.2473368,7.805425,10.58052/IEWDR00R3,stream,Orco,-9999,N/A,Italy,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0097,41.720847,-111.8865,10.58052/IEWDR00R4,stream,Logan,664488,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0098,41.950204,-111.580533,10.58052/IEWDR00R5,stream,Logan,664126,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0099,39.2385932,-84.7119066,10.58052/IEWDR00R6,stream,Great Miami,3886082,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,S19S
+S19S_0100,38.92352,-106.950961,10.58052/IEWDR00R7,stream,East River,1332754,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,S19S
+S20R,47.19028,-121.01556,10.58052/IEPRS0082,stream,Cle Elum River,24125811,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S21,47.17725,-121.02867,10.58052/IEPRS00UT,stream,Yakima River,24126059,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S21R,47.185797,-121.043826,10.58052/IEPRS0083,stream,Yakima River,24126061,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S22RR,47.1683,-120.8346,10.58052/IEPRS00U3,stream,Teanaway River,947030171,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S23,47.185944,-120.918817,10.58052/IEPRS0084,stream,Yakima River,24125789,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S24,47.3543,-121.1082,10.58052/IEPRS00U4,stream,Cle Elum River,24125859,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S24R,47.354254,-121.108406,10.58052/IEPRS0085,stream,Cle Elum River,24125859,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S25,47.262537,-120.897057,10.58052/IEPRS0086,stream,Middle Fork Teanaway River,24125699,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S26R,47.168488,-120.834427,10.58052/IEPRS0087,stream,Teanaway River,947030170,TRUE,United States,COMID_Analysis_00; COMID_00; COMID_05,James Stegen,james.stegen@pnnl.gov,SPS
+S27R,47.260155,-121.176851,10.58052/IEPRS0088,stream,Silver Creek,24126823,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S28R,47.124215,-120.73804,10.58052/IEPRS0089,stream,Swauk Creek,24131037,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S28RE,47.123516,-120.73817,10.58052/IEPRS008A,stream,Yakima River,24125567,FALSE,United States,COMID_Analysis_00; COMID_06; COMID_05; RawCOMID_24125509; Flag_00,James Stegen,james.stegen@pnnl.gov,SPS
+S29,47.0822,-120.7334,10.58052/IEPRS00U5,stream,Taneum Creek,24126251,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S29R,47.082159,-120.733369,10.58052/IEPRS008B,stream,Taneum Creek,24126251,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S30R,46.09521496,-120.5482254,10.58052/IEPRS008C,stream,Satus Creek,23100398,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S31,46.205978,-120.480969,10.58052/IEPRS008D,stream,Logy Creek,23100338,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S32,46.23559571,-120.4191547,10.58052/IEPRS008E,stream,Satus Creek,23100328,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S33,46.26534,-120.11103,10.58052/IEPRS00UU,stream,Yakima River,23099694,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S34,46.26426,-120.11472,10.58052/IEPRS00UV,stream,Satus Creek,23100242,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S34R,46.2752,-120.1377,10.58052/IEPRS00U6,stream,Satus Creek,23100242,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S36,46.314573,-120.199171,10.58052/IEPRS008F,stream,Toppenish Creek,23100020,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S37,46.028244,-120.611858,10.58052/IEPRS008G,stream,Satus Creek,23100428,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S38,46.029003,-120.636526,10.58052/IEPRS008H,stream,Unnamed Tributary,23105314,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,SPS
+S39,46.016704,-120.649701,10.58052/IEPRS008I,stream,Satus Creek,23100434,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S40,46.03855,-120.5894,10.58052/IEPRS00UW,stream,Kusshi Creek,23100408,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S41R,46.3111,-120.7891,10.58052/IEPRS00U7,stream,Toppenish Creek,23100180,FALSE,United States,COMID_Analysis_00; COMID_06; COMID_05; RawCOMID_23100178; Flag_00,James Stegen,james.stegen@pnnl.gov,SSS
+S42,46.2902,-120.8717,10.58052/IEPRS00U8,stream,Unnamed Tributary,23103496,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,SSS
+S43,46.3656,-120.6704,10.58052/IEPRS00U9,stream,Toppenish Creek,23100162,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S45,46.6168,-121.1511,10.58052/IEPRS00UA,stream,South Fork Tieton River,24423421,TRUE,United States,COMID_Analysis_00; COMID_00; COMID_05,James Stegen,james.stegen@pnnl.gov,SSS
+S47,46.61823,-121.31549,10.58052/IEPRS00UY,stream,North Fork Tieton River,24423359,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S47R,46.62141,-121.30271,10.58052/IEPRS00UB,stream,North Fork Tieton River,24423357,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,SSS
+S48,46.64743,-121.25489,10.58052/IEPRS00UZ,stream,Indian Creek,24423325,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S48R,46.64568,-121.25106,10.58052/IEPRS00UC,stream,Indian Creek,24423325,FALSE,United States,COMID_Analysis_00; COMID_06; RawCOMID_24423321; Flag_00,James Stegen,james.stegen@pnnl.gov,SSS
+S49R,46.724267,-120.813351,10.58052/IEPRS008J,stream,Tieton River,24423233,TRUE,United States,COMID_Analysis_00; COMID_00; COMID_05,James Stegen,james.stegen@pnnl.gov,SPS
+S50,46.631447,-120.521815,10.58052/IEPRS008K,stream,Yakima River,24125037,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S50P,46.7521,-120.8178,10.58052/IEPRS00UD,stream,Naches River,24422713,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S51,46.729878,-120.803616,10.58052/IEPRS008L,stream,Tieton River,24423233,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S52,46.6592,-121.0893,10.58052/IEPRS00UE,stream,Milk Creek,24423623,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S53,46.6646,-121.1237,10.58052/IEPRS00UF,stream,Wildcat Creek,24424869,FALSE,United States,COMID_Analysis_00; COMID_06; RawCOMID_24423305; Flag_00,James Stegen,james.stegen@pnnl.gov,SSS
+S54,46.6833,-120.9404,10.58052/IEPRS00UG,stream,Tieton River,24423245,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S55,46.663547,-120.805047,10.58052/IEPRS008M,stream,South Fork Cowiche Creek,24423517,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S55N,46.6659,-120.8161,10.58052/IEPRS00W7,stream,South Fork Cowiche Creek,24423517,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S56,46.620687,-120.626954,10.58052/IEPRS008N,stream,Cowiche Creek,24423479,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S56N,46.6218,-120.6206,10.58052/IEPRS00W8,stream,Cowiche Creek,24423479,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S57,46.5814,-120.4612,10.58052/IEPRS00UH,stream,Yakima River,23099862,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S58,46.6856,-120.6553,10.58052/IEPRS00UI,stream,Naches River,24422669,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SSS
+S61,47.06101,-121.28535,10.58052/IEPRS00V0,stream,South Fork Little Naches River,24422873,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S63,46.041823,-120.573226,10.58052/IEPRS008O,stream,Satus Creek,23100404,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S63P,46.04551,-120.5679,10.58052/IEPRS00UJ,stream,Bull Creek,23100608,FALSE,United States,COMID_Analysis_00; COMID_06; RawCOMID_23100404; Flag_00,James Stegen,james.stegen@pnnl.gov,N/A
+S64,46.25372,-120.95778,10.58052/IEPRS00V1,stream,North Fork Toppenish Creek,23100200,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S65,46.73657,-120.90747,10.58052/IEPRS00V2,stream,Indian Creek,24424705,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,N/A
+S67,46.855643,-120.483696,10.58052/IEPRS008P,stream,Yakima River,24125193,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S68,46.855711,-120.484841,10.58052/IEPRS008Q,stream,Umtanum Creek,24126399,FALSE,United States,COMID_Analysis_00; COMID_06; RawCOMID_24125193; Flag_00,James Stegen,james.stegen@pnnl.gov,SPS
+S71,46.968185,-120.691204,10.58052/IEPRS008R,stream,Manastash Creek,24126327,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S72,46.99491,-120.590443,10.58052/IEPRS008S,stream,Manastash Creek,24126315,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S73,46.98778012,-120.5710861,10.58052/IEPRS008T,stream,Yakima River,24125421,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S75,47.017577,-120.51748,10.58052/IEPRS008U,stream,Wilson Creek,24131135,TRUE,United States,COMID_Analysis_00; COMID_00; COMID_05,James Stegen,james.stegen@pnnl.gov,SPS
+S77,46.625578,-120.583712,10.58052/IEPRS008V,stream,Cowiche Creek,24423479,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S79,46.763844,-120.456432,10.58052/IEPRS008W,stream,Yakima River,24125115,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S82,46.53837,-120.480372,10.58052/IEPRS008X,stream,Ahtanum Creek,23099884,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+S83,47.239586,-121.227415,10.58052/IEPRS008Y,stream,Cabin Creek,24126203,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,SPS
+SAC-1604,29.602818,-98.540933,10.58052/IEWDR022F,stream,Salado Creek,10840230,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+SAC-C,29.397379,-98.418744,10.58052/IEWDR0228,stream,Salado Creek,10840440,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+SAD1,46.721,-71.4754,10.58052/IEWDR01CT,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+SAD2,46.7286,-71.4706,10.58052/IEWDR01CU,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+SAD3,46.7056,-71.4608,10.58052/IEWDR01CS,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+SAR-BP,29.4586,-98.47398,10.58052/IEWDR0224,stream,San Antonio River,10840810,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,AV1
+SF01,46.728668,-120.937573,10.58052/IEPRS00ZW,stream,South Fork Oak Creek,24424753,TRUE,United States,COMID_Analysis_01; COMID_00,James Stegen,james.stegen@pnnl.gov,PRT
+SORAM1,46.0735,-73.0872,10.58052/IEWDR01C9,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+SORAM2,46.0587,-73.0742,10.58052/IEWDR01CB,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+SORAM3,46.0612,-73.0749,10.58052/IEWDR01CA,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+SORAV1,46.1729,-72.9582,10.58052/IEWDR01CC,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+SORAV2,46.1618,-72.9424,10.58052/IEWDR01CE,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+SORAV3,46.1372,-72.9493,10.58052/IEWDR01CD,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+SP-1,41.3093,-83.1578,10.58052/IEWDR01L6,stream,Sandusky River,15612718,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-10,32.3505,-111.0953,10.58052/IEWDR01L7,stream,Santa Cruz River,15903137,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-11,38.923901,-106.950572,10.58052/IEWDR021V,stream,East River,1332754,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-12,38.907533,-107.023765,10.58052/IEWDR021U,stream,Slate River,1332224,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-13,32.4713,-111.3042,10.58052/IEWDR01L8,stream,Santa Cruz River,15890430,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-14,46.4979,-84.3742,10.58052/IEWDR01L9,stream,St. Marys River,904020533,FALSE,United States,COMID_Analysis_00; COMID_06; COMID_05; RawCOMID_904020534; Flag_00,James Stegen,james.stegen@pnnl.gov,CM
+SP-15,30.4384,-91.1912,10.58052/IEWDR01LA,stream,Mississippi RIver,19088319,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-16,44.640715,-68.445497,10.58052/IEWDR01UA,stream,Crawford Brook,-9999,N/A,United States,COMID_Analysis_01; COMID_07; RawCOMID_2681396; Flag_00,James Stegen,james.stegen@pnnl.gov,CM
+SP-17,40.989942,-96.20896,10.58052/IEWDR01UE,stream,Decker Creek,17416738,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-18,44.3676591,-72.9688981,10.58052/IEWDR01UG,stream,Huntington River,4577456,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-19,43.6042604,-116.1946675,10.58052/IEWDR01UH,stream,Boise River,23398865,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-2,41.3166,-102.126,10.58052/IEWDR01LB,stream,North Platte River,17461568,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-20,37.580748,-121.166009,10.58052/IEWDR01XH,stream,San Joaquin,2820034,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-21,38.257823,-121.433908,10.58052/IEWDR01XG,stream,Cosumnes River,1889750,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+SP-22,32.845656,-87.661434,10.58052/IEWDR01XE,stream,Fivemile Creek Tributary,18208882,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+SP-23,38.9746,-119.8218,10.58052/IEWDR01L2,stream,West Fork Carson River,8922013,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+SP-28,33.487858,-88.455436,10.58052/IEWDR01XW,stream,Tennessee Tombigbee Waterway,933160077,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-32,35.86754,-106.52276,10.58052/IEWDR01XV,stream,La Jara Creek,17827558,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-35,29.862373,-82.2833293,10.58052/IEWDR01XQ,stream,Stream 5,2161826,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+SP-4,33.8277,-79.0449,10.58052/IEWDR01LC,stream,Waccamaw River,9071958,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-45,30.15526,-83.23854,10.58052/IEWDR01XR,stream,Allen Mill Spring Run,-9999,N/A,United States,COMID_Analysis_01; COMID_07; RawCOMID_2230493; Flag_00,James Stegen,james.stegen@pnnl.gov,CM
+SP-47,29.93382,-82.79881,10.58052/IEWDR01XS,stream,Ichetucknee River,2161766,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-5,33.684,-84.4153,10.58052/IEWDR01LD,stream,South River,6333706,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+SP-6,45.0844,-92.7856,10.58052/IEWDR01LE,stream,St. Croix,2649684,FALSE,United States,COMID_Analysis_00; COMID_06; COMID_05; RawCOMID_2648950; Flag_00,James Stegen,james.stegen@pnnl.gov,CM
+SP-66,33.56176,-79.08539,10.58052/IEWDR01XX,stream,Cow House Creek,9071892,TRUE,United States,COMID_Analysis_01; COMID_02,James Stegen,james.stegen@pnnl.gov,CM
+SP-70,41.950688,-111.580198,10.58052/IEWDR01Y2,stream,Logan River,664126,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-72,41.739155,-111.796376,10.58052/IEWDR01Y3,stream,Logan River,664436,TRUE,United States,COMID_Analysis_01; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-8,44.5505,-123.2497,10.58052/IEWDR01LF,stream,Willamette River,23763009,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+SP-9,44.556,-123.2769,10.58052/IEWDR01LG,stream,Marys River,23762881,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,CM
+STA1,46.5744,-72.1006,10.58052/IEWDR01CR,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STA2,46.5685,-72.0997,10.58052/IEWDR01CQ,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STA3,46.5625,-72.1057,10.58052/IEWDR01CP,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STAN1,47.7465,-69.8901,10.58052/IEWDR01D4,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STIR1,47.5506,-70.1852,10.58052/IEWDR01D3,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STJO1,47.4457,-70.3002,10.58052/IEWDR01D2,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STL1,44.8972,-75.1665,10.58052/IEWDR01B3,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STL1.5,44.9537,-74.9918,10.58052/IEWDR01B4,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STL2,45.0061,-74.7747,10.58052/IEWDR01B7,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STM1,46.3501,-72.5302,10.58052/IEWDR01CL,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STM2,46.3473,-72.5271,10.58052/IEWDR01CO,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STM3,46.3456,-72.5168,10.58052/IEWDR01CN,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+STM4,46.3369,-72.518,10.58052/IEWDR01CM,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+T02,46.232095,-119.999,10.58052/IEPRS008Z,stream,Yakima River,23099678,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,RC2
+T03,46.530817,-120.470337,10.58052/IEPRS0090,stream,Yakima River,23099844,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,RC2
+T05,46.728776,-120.713733,10.58052/IEPRS0091,stream,Naches River,24425579,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,RC2
+T05P,46.98904,-121.09921,10.58052/IEPRS0093,stream,Little Naches River,24422823,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,RC2
+T06,46.97777,-121.16953,10.58052/IEPRS0094,stream,American River,24422913,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,RC2
+T07,46.255319,-119.47405,10.58052/IEPRS0092,stream,Yakima River,947030105,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,RC2
+T41,46.72411,-120.70039,10.58052/IEPRS0095,stream,Naches River,24425579,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,RC2
+T42,46.72895,-120.71431,10.58052/IEPRS0096,stream,Naches River,24425579,TRUE,United States,COMID_Analysis_00; COMID_00,James Stegen,james.stegen@pnnl.gov,RC2
+TAP001,5.53904,-72.72515,10.58052/IEWDR024C,stream,Quebrada Honda_Alta1,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP002,5.53638,-72.72527,10.58052/IEWDR024D,stream,Quebrada_Honda_Alta2,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP003,5.518699252,-72.74022303,10.58052/IEWDR024E,stream,Quebrada_Honda_Media,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP004,5.510267537,-72.74535919,10.58052/IEWDR024F,stream,Quebrada_Honda_Baja,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP005,5.508508616,-72.75387968,10.58052/IEWDR024G,stream,Rio_Cusiana_bajo,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP006,5.587623884,-72.80922587,10.58052/IEWDR024H,stream,Quebrada Iglesia - Baja,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP007,5.63994284,-72.77652725,10.58052/IEWDR024I,stream,Quebrada Iglesia - Nacimiento 1,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP008,5.640136779,-72.77657224,10.58052/IEWDR024J,stream,Quebrada Iglesias - Nacimiento 2,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP009,5.635274329,-72.78295177,10.58052/IEWDR024K,stream,Quebrada Iglesia - AFLagunaSiscunsí,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP010,5.586695965,-72.81550566,10.58052/IEWDR024L,stream,Rio Cusiana - Alto,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP011,-35.35138,-58.06518,10.58052/IEWDR024M,stream,Samborombón,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP012,-35.33126,-58.04946,10.58052/IEWDR024N,stream,Samborombón,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP013,-35.10605,-58.06492,10.58052/IEWDR024O,stream,Samborombón,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP014,-35.01963,-58.3125,10.58052/IEWDR024P,stream,Samborombón,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP015,-35.13125,-58.38567,10.58052/IEWDR024Q,stream,Samborombón,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP016,-35.22513,-58.20402,10.58052/IEWDR024R,stream,Samborombón,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP017,-35.46225,-57.75135,10.58052/IEWDR024S,stream,Samborombón,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP018,-35.4463,-57.71794,10.58052/IEWDR024T,stream,Samborombón,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP019,-35.39921,-57.63398,10.58052/IEWDR024U,stream,Samborombón,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP020,-35.35325,-57.41751,10.58052/IEWDR024V,stream,Samborombón,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP021,-41.19369,-71.83086,10.58052/IEWDR024W,stream,Manso Superior,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP022,-41.24552,-71.71306,10.58052/IEWDR024X,stream,Manso Superior,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP023,-41.20364,-71.82308,10.58052/IEWDR024Y,stream,Manso Superior,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP024,-41.22234,-71.79583,10.58052/IEWDR024Z,stream,Manso Superior,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP025,-41.26366,-71.65549,10.58052/IEWDR0250,stream,Manso Superior,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP026,-41.2341,-71.75429,10.58052/IEWDR0251,stream,Manso Superior,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP027,-41.20873,-71.81725,10.58052/IEWDR0252,stream,Manso Superior,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP028,-41.23539,-71.78467,10.58052/IEWDR0253,stream,Manso Superior,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP029,-41.25031,-71.70132,10.58052/IEWDR0254,stream,Manso Superior,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP030,-41.23143,-71.77024,10.58052/IEWDR0255,stream,Manso Superior,-9999,N/A,Argentina,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP031,-24.279333,-48.412806,10.58052/IEWDR0256,stream,Mirante,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP032,-24.307574,-48.414912,10.58052/IEWDR0257,stream,Carmo,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP033,-24.306556,-48.414694,10.58052/IEWDR0258,stream,Lageado,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP034,-24.308685,-48.409764,10.58052/IEWDR0259,stream,Carmo,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP035,-24.292889,-48.417722,10.58052/IEWDR025A,stream,Água Comprida,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP036,-24.316889,-48.421056,10.58052/IEWDR025B,stream,Inferno,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP037,-24.292306,-48.419222,10.58052/IEWDR025C,stream,N/A,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP038,-24.271917,-48.424556,10.58052/IEWDR025D,stream,Roda d'água,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP039,-24.27225,-48.412722,10.58052/IEWDR025E,stream,Córrego do Lago Nagro,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP040,-24.276306,-48.417806,10.58052/IEWDR025F,stream,N/A,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP041,-22.378441,-47.852495,10.58052/IEWDR025G,stream,Passa Cinco,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP042,-22.345383,-47.847523,10.58052/IEWDR025H,stream,Passa Cinco,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP043,-22.35907,-47.852166,10.58052/IEWDR025I,stream,N/A,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP044,-22.376944,-47.779889,10.58052/IEWDR025J,stream,Lapa,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP045,-22.413771,-47.724598,10.58052/IEWDR025K,stream,Passa Cinco,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP046,-22.412911,-47.737106,10.58052/IEWDR025L,stream,N/A,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP047,-22.389722,-47.744417,10.58052/IEWDR025M,stream,Passa Cinco,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP048,-22.399648,-47.841473,10.58052/IEWDR025N,stream,Passa cinco,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP049,-22.387902,-47.753654,10.58052/IEWDR025O,stream,N/A,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP050,-22.353192,-47.797545,10.58052/IEWDR025P,stream,Pirapetininga,-9999,N/A,Brazil,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP051,2.4942786,-72.6515439,10.58052/IEWDR025Q,stream,Caño Agua Bonita,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP052,2.4921528,-72.653197,10.58052/IEWDR025R,stream,Caño Agua Bonita,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP053,2.48898761,-72.6533564,10.58052/IEWDR025S,stream,Caño Agua Bonita,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP054,2.51769148,-72.641757,10.58052/IEWDR025T,stream,Caño Agua Bonita,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP055,2.52055266,-72.6400509,10.58052/IEWDR025U,stream,Caño Agua Bonita,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP056,2.52290333,-72.6387017,10.58052/IEWDR025V,stream,Caño Agua Bonita,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP057,2.4943768,-72.6386154,10.58052/IEWDR025W,stream,Caño Agua Bonita,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP058,2.57915033,-72.6012949,10.58052/IEWDR025X,stream,Caño Agua Bonita,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP059,2.52165097,-72.6213212,10.58052/IEWDR025Y,stream,Caño Agua Bonita,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP060,2.50636374,-72.6374645,10.58052/IEWDR025Z,stream,Caño Agua Bonita,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP061,2.5240469,-72.6925882,10.58052/IEWDR0260,stream,Quebrada la María,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP064,2.45187399,-72.6915608,10.58052/IEWDR0261,stream,Caño trueno,-9999,N/A,Colombia,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP090,-22.289324,-68.24421,10.58052/IEWDR0262,stream,Rio Salado,-9999,N/A,Chile,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP091,-21.941452,-68.531856,10.58052/IEWDR0263,stream,Rio San Pedro,-9999,N/A,Chile,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP092,-21.937202,-68.612611,10.58052/IEWDR0264,stream,Rio Loa,-9999,N/A,Chile,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP093,-21.99474,-68.608991,10.58052/IEWDR0265,stream,Rio Loa,-9999,N/A,Chile,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP094,-22.371226,-68.656091,10.58052/IEWDR0266,stream,Rio Loa,-9999,N/A,Chile,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP095,-22.276662,-69.561638,10.58052/IEWDR0267,stream,Rio Loa,-9999,N/A,Chile,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP096,-22.396559,-69.527793,10.58052/IEWDR0268,stream,Rio San Salvador,-9999,N/A,Chile,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAP097,-22.396845,-69.52847,10.58052/IEWDR0269,stream,Rio Loa,-9999,N/A,Chile,COMID_08,James Stegen,james.stegen@pnnl.gov,TAP
+TAY-RES,38.8183,-106.6086,10.58052/IEWDR00XM,stream,Taylor River below reservoir,1333490,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+TAY-TAY,38.8604,-106.567,10.58052/IEWDR00XN,stream,Taylor River at Taylor Park,1333022,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+TCL1,45.6656,-73.4644,10.58052/IEWDR01BP,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+TCM1,45.7069,-73.4787,10.58052/IEWDR01BT,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+TCM1.5,45.5894,-73.4973,10.58052/IEWDR01BQ,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+TCM2,45.7051,-73.4556,10.58052/IEWDR01BS,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+TCM2.5,45.6758,-73.458,10.58052/IEWDR01BR,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+TCM3,45.7038,-73.4447,10.58052/IEWDR01BU,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+THI01,44.2132,-76.5457,10.58052/IEWDR01AS,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+THI02,44.24024,-76.41803,10.58052/IEWDR01AU,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+THI03,44.2593,-76.3784,10.58052/IEWDR01AV,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+THI04,44.3034,-76.1969,10.58052/IEWDR01AT,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+THI05,44.3232,-76.1668,10.58052/IEWDR01AP,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+THI06,44.3244,-76.159,10.58052/IEWDR01AN,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+THI07,44.484,-75.8268,10.58052/IEWDR01AR,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+TRA1,45.9966,-73.1873,10.58052/IEWDR01C5,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+TRA2,46.004,-73.175,10.58052/IEWDR01C7,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+TRA3,45.9969,-73.1741,10.58052/IEWDR01C6,stream,St. Lawrence River,-9999,N/A,Canada,COMID_Analysis_00; COMID_08,James Stegen,james.stegen@pnnl.gov,STL
+TRO-GAT,44.801195,-121.06603,10.58052/IEWDR00XO,stream,Trout Creek,23732545,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+U20,46.898642,-120.642233,10.58052/IEPRS007U,stream,Umtanum Creek,24126427,TRUE,United States,COMID_Analysis_00; COMID_00,Allison Myers-Pigg,allison.myers-pigg@pnnl.gov,YRBT
+U22,46.9079,-120.690378,10.58052/IEPRS00V3,stream,Umtanum Creek,24126443,FALSE,United States,COMID_Analysis_00; COMID_06; RawCOMID_24126441; Flag_00,Allison Myers-Pigg,allison.myers-pigg@pnnl.gov,N/A
+W10,46.867453,-120.77439,10.58052/IEPRS007T,stream,Wenas Creek,24126509,TRUE,United States,COMID_Analysis_00; COMID_00,Allison Myers-Pigg,allison.myers-pigg@pnnl.gov,YRBT
+W20,46.832844,-120.710935,10.58052/IEPRS007S,stream,Wenas Creek,24126487,TRUE,United States,COMID_Analysis_00; COMID_00,Allison Myers-Pigg,allison.myers-pigg@pnnl.gov,YRBT
+WHY-SIS,44.287949,-121.544078,10.58052/IEWDR00XP,stream,Whychus Creek,23700305,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+WIL-COR,44.566361,-123.256806,10.58052/IEWDR00XQ,stream,Willamette River at Corvallis,23762877,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+WIL-GOS,43.9806,-122.9653,10.58052/IEWDR00XR,stream,Coast Fork Willamette River,23759228,TRUE,United States,COMID_Analysis_00; COMID_01,James Stegen,james.stegen@pnnl.gov,WROL
+WIL-HAR,44.2701246,-123.1748105,10.58052/IEWDR00XS,stream,Willamette River at Harrisburg,23763337,TRUE,United States,COMID_Analysis_00; COMID_02; COMID_05,James Stegen,james.stegen@pnnl.gov,WROL
+WIL-JAS,43.9983,-122.905,10.58052/IEWDR00XT,stream,Middle Fork Willamette River,23751778,FALSE,United States,COMID_Analysis_00; COMID_06; RawCOMID_23752718; Flag_00,James Stegen,james.stegen@pnnl.gov,WROL
+WIL-POR,45.5175,-122.6692,10.58052/IEWDR00XU,stream,Willamette River at Portland,23815040,TRUE,United States,COMID_Analysis_00; COMID_02,James Stegen,james.stegen@pnnl.gov,WROL
+YDE21_001,77.94,14.27,10.58052/IEWDR00MZ,groundwater spring,Vestre Grønfjordbreen proximal (VGFB1),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_002,77.93,14.32,10.58052/IEWDR00N0,groundwater spring,Austre Grønfjordbreen proximal (AGFBp),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_003,77.83,17.06,10.58052/IEWDR00N1,groundwater spring,Vallåkrabreen Groundwater Spring (GW1),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_004,77.84,17.07,10.58052/IEWDR00N2,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_005,77.84,17.07,10.58052/IEWDR00N3,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_006,77.84,17.07,10.58052/IEWDR00N4,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_007,77.84,17.07,10.58052/IEWDR00N5,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_008,77.84,17.07,10.58052/IEWDR00N6,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_009,77.83,17.06,10.58052/IEWDR00N7,groundwater spring,Vallåkrabreen Groundwater Station (GW2),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_01_SED,77.84,17.07,10.58052/IEWDR00OH,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_010,77.84,17.07,10.58052/IEWDR00N8,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_011,77.84,17.07,10.58052/IEWDR00N9,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_012,77.84,17.07,10.58052/IEWDR00NA,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_013,77.84,17.07,10.58052/IEWDR00NB,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_014,77.84,17.07,10.58052/IEWDR00NC,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_015,77.85,16.92,10.58052/IEWDR00ND,stream,Bjartfonna,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_016,77.84,17.07,10.58052/IEWDR00NE,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_017,77.75,17.04,10.58052/IEWDR00NF,stream,Scheelebreen Main River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_018,77.84,17.07,10.58052/IEWDR00NG,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_019,77.83,17.1,10.58052/IEWDR00NH,stream,Cirque glacier on Majorfjellet,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_02_SED,77.84,17.07,10.58052/IEWDR00OI,glacier,Vallåkrabreen Basal Sediment,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_020,77.83,17.13,10.58052/IEWDR00NI,stream,Lognbreen River at Glacier Margin,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_021,77.84,17.07,10.58052/IEWDR00NJ,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_022,77.85,17.1,10.58052/IEWDR00NK,cryoconite,VLR Cryoconite 1,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_023,77.84,17.07,10.58052/IEWDR00NL,stream,"Vallåkrabreen Up Stream Station, Diurnal Sample 1",-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_024,77.84,17.07,10.58052/IEWDR00NM,stream,"Vallåkrabreen Up Stream Station, Diurnal Sample 2",-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_025,77.84,17.07,10.58052/IEWDR00NN,stream,"Vallåkrabreen Up Stream Station, Diurnal Sample 3",-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_026,77.84,17.07,10.58052/IEWDR00NO,stream,"Vallåkrabreen Up Stream Station, Diurnal Sample 4",-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_027,77.84,17.07,10.58052/IEWDR00NP,stream,"Vallåkrabreen Up Stream Station, Diurnal Sample 5",-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_028,77.84,17.07,10.58052/IEWDR00NQ,stream,"Vallåkrabreen Up Stream Station, Diurnal Sample 6",-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_029,77.84,17.07,10.58052/IEWDR00NR,stream,"Vallåkrabreen Up Stream Station, Diurnal Sample 7",-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_030,77.84,17.07,10.58052/IEWDR00NS,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_031,77.83,17.06,10.58052/IEWDR00NT,groundwater spring,GW Transect Sample 1 (GW4),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_032,77.83,17.06,10.58052/IEWDR00NU,groundwater spring,GW Transect Sample 2 (GW3),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_033,77.83,17.06,10.58052/IEWDR00NV,groundwater spring,GW Transect Sample 3 (Spring formed below where GW1 was),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_034,77.83,17.06,10.58052/IEWDR00NW,groundwater spring,GW Transect Sample 4,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_035,77.83,17.04,10.58052/IEWDR00NX,groundwater spring,GW Transect Sample 5,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_036,77.84,17.07,10.58052/IEWDR00NY,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_037,77.84,17.07,10.58052/IEWDR00NZ,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_038,77.81,16.98,10.58052/IEWDR00O0,stream,Metabolites River Transect Sample 1 (outlet to fjord),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_039,77.82,17.01,10.58052/IEWDR00O1,stream,Metabolites River Transect Sample 2 (outlet of canyon),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_040,77.83,17.04,10.58052/IEWDR00O2,stream,Metabolites River Transect Sample 3 (within canyon area),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_041,77.83,17.05,10.58052/IEWDR00O3,stream,Metabolites River Transect Sample 4 (bulk station),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_042,77.83,17.06,10.58052/IEWDR00O4,stream,Metabolites River Transect Sample 5 (after groundwater section),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_043,77.83,17.06,10.58052/IEWDR00O5,stream,Metabolites River Transect Sample 6 (after Lognbreen river),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_044,77.84,17.07,10.58052/IEWDR00O6,stream,Metabolites River Transect Sample 7 (VLR US station),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_045,77.84,17.07,10.58052/IEWDR00O7,stream,Metabolites River Transect Sample 8 (supraglacial stream),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_046,77.84,17.07,10.58052/IEWDR00O8,stream,Metabolites River Transect Sample 9 (main subglacial river),-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_047,77.85,17.11,10.58052/IEWDR00O9,cryoconite,VLR Cryoconite 2,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_048,77.85,17.11,10.58052/IEWDR00OA,cryoconite,VLR Cryoconite 3,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_049,77.84,17.07,10.58052/IEWDR00OB,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_050,77.83,17.06,10.58052/IEWDR00OC,groundwater spring,"Neighboring Pool to VLR Groundwater Station (GW3, vent #6)",-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_051,77.84,17.07,10.58052/IEWDR00OD,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_052,77.84,17.07,10.58052/IEWDR00OE,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_053,77.84,17.07,10.58052/IEWDR00OF,stream,Vallåkrabreen Up Stream Station,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE21_054,78.15,16.11,10.58052/IEWDR00OG,stream,Foxfonna Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE21
+YDE22_055,77.77425,17.02998,10.58052/IEWDR01TT,stream,Scheelebreen West Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YDE22_056,77.76979,17.10647,10.58052/IEWDR01TU,stream,Scheelebreen East Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YDE22_057,77.74734,17.14457,10.58052/IEWDR01TV,stream,Peisbreen Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YDE22_058,77.78107,16.90922,10.58052/IEWDR01TW,stream,Lunabreen Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YDE22_059,77.83103,17.1226,10.58052/IEWDR01TX,stream,Lognbreen Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YDE22_060,77.81152,17.2076,10.58052/IEWDR01TY,stream,Mettebreen Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YDE22_061,77.76906,16.81508,10.58052/IEWDR01TZ,stream,Høgbreen Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YDE22_062,77.78743,16.74347,10.58052/IEWDR01U0,stream,Elektrobreen Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YDE22_063,77.79423,16.67507,10.58052/IEWDR01U1,stream,Bessemerbreen Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YDE22_064,77.72347,16.51106,10.58052/IEWDR01U2,stream,Svalbreen Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YDE22_065,77.86026,16.91277,10.58052/IEWDR01U3,stream,Stabarpbreen Melt River,-9999,N/A,Norway,COMID_08,James Stegen,james.stegen@pnnl.gov,YDE22
+YEP1,46.372907,-119.272176,10.58052/IEPRS01EB,stream,Columbia River,24415028,TRUE,United States,COMID_Analysis_01; COMID_00,James Stegen,james.stegen@pnnl.gov,YEP
+YEP2,46.3729,-119.272098,10.58052/IEPRS01EA,stream,Columbia River,24415028,TRUE,United States,COMID_Analysis_01; COMID_00,James Stegen,james.stegen@pnnl.gov,YEP
