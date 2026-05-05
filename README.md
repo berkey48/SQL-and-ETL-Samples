@@ -1,196 +1,113 @@
+# 🌍 Global Earthquake Database
+### Relational Database Design & Analytics Pipeline
 
-Team 5071_1 | Final Project: Earthquake Database
-====================================================================
-Course: CPSC 5071
+**Course:** CPSC 5071 — Database Systems  
+**Team:** Jordan Berke, Emily Larson, Jennifer Poling, Paul Skentzos  
+**My Role:** Schema design, ETL pipeline development, query optimization
 
-Team Members: Jordan Berke, Emily Larson, Jennifer Poling, Paul Skentzos
+---
 
-Date: March 2026
+## 📌 Project Overview
 
-Project Domain and Goals
-------------------------
-This project builds a normalized relational database for storing and
-analyzing global earthquake data sourced from Kaggle. The dataset
-covers nearly 200 years of seismic events (1826 to 2026) with over
-106,000 records across 19 attributes. The data includes geographic
-coordinates, magnitude readings across multiple scales, event
-classifications, review statuses, and measurement quality indicators.
+A normalized relational database built to store and analyze nearly 200 years of 
+global seismic activity (1826–2026), covering 106,000+ records across 19 attributes. 
+The project spans the full data lifecycle — schema design, automated ingestion, 
+SQL analytics, pandas transformation, spatial ETL integration, and query optimization.
 
-Our goal was to design a well-structured database from raw CSV data,
-populate it through an automated pipeline, query it using SQL JOINs
-and subqueries, clean and transform the output using pandas, enrich
-it with external data through an ETL pipeline, and optimize query
-performance using indexing and pandas techniques.
+---
 
+## 📁 Project Structure
 
-Schema Design and Structure
-----------------------------
-The database implements a 7-table schema normalized to Third Normal
-Form (3NF), designed from an Entity-Relationship Diagram created in
-Week 2. The schema is organized into two categories:
+| File / Folder | Purpose |
+|---|---|
+| `import_earthquakes.py` | Loads raw CSV into staging table |
+| `populate_tables.sql` | Migrates staging data into normalized schema |
+| `notebooks/` | Jupyter notebooks for weeks 6–8 (cleaning, ETL, optimization) |
+| `docs/` | ERD diagram and project documentation |
 
-4 Main Entities:
-  SEISMIC_EVENT: Core table representing individual seismic
-    occurrences. Contains event_id (PK), event_timestamp, and
-    foreign keys to location, event type, and review status.
+---
 
-  GEOGRAPHIC_LOCATION: Stores latitude, longitude, depth_km, and
-    place_description. A unique constraint on (latitude, longitude,
-    depth_km) prevents duplicate locations.
+## 🗄️ Database Schema
 
-  MAGNITUDE_MEASUREMENT: Stores magnitude readings for each event.
-    Supports multiple measurements per event using different scales,
-    linked through event_id (FK) and magnitude_type_id (FK).
+7-table schema normalized to **Third Normal Form (3NF)**, designed from an 
+Entity-Relationship Diagram.
 
-  QUALITY_METRICS: Measurement quality and network coverage indicators
-    in a one-to-one relationship with SEISMIC_EVENT. Separated because
-    many historical events lack these measurements.
+**Core Tables:**
+- `SEISMIC_EVENT` — Central fact table; links to location, type, and review status
+- `GEOGRAPHIC_LOCATION` — Lat/lon/depth with deduplication constraint
+- `MAGNITUDE_MEASUREMENT` — Supports multiple readings per event across 28 scale types
+- `QUALITY_METRICS` — One-to-one with events; separated because many historical 
+  records lack measurement quality data
 
-3 Lookup Tables:
-  EVENT_TYPE: ~10-15 distinct seismic event classifications
-    (earthquake, explosion, quarry blast, etc.)
-  REVIEW_STATUS: Data quality review values (automatic, reviewed)
-  MAGNITUDE_TYPE: 28 distinct magnitude scale codes (mb, mw, ml, etc.)
+**Lookup Tables:** `EVENT_TYPE` · `REVIEW_STATUS` · `MAGNITUDE_TYPE`
 
-Repeating categorical values were extracted into lookup tables to
-eliminate string redundancy and enforce consistency. All foreign key
-relationships use NOT NULL constraints and referential integrity checks.
+> Repeating categorical strings were extracted into lookup tables to eliminate 
+> redundancy and enforce consistency across 106k+ rows.
 
-The ERD diagram is included in the docs/ folder.
+---
 
+## ⚙️ Pipeline & Analysis
 
-Key SQL and Pandas Workflows
-------------------------------
-Week 3 (Schema and Queries):
-  Created the 7-table schema, wrote manual INSERT examples for all
-  tables, and built 15+ SELECT queries demonstrating filtering,
-  sorting, DISTINCT, LIMIT/OFFSET, LIKE, IN, aggregates, GROUP BY,
-  and CASE statements.
+### Data Ingestion
+Raw CSV loaded into a staging table via Python, then migrated into the normalized 
+schema using transactional SQL — allowing validation at each stage before committing.
 
-Week 4 (JOINs and Subqueries):
-  Developed four analytical queries against the full 106k+ dataset:
-    Q1: Specific event lookup joining GEOGRAPHIC_LOCATION,
-        SEISMIC_EVENT, and MAGNITUDE_MEASUREMENT using INNER JOINs.
-    Q2: Deepest earthquake analysis using a subquery to calculate
-        average depth, joining four tables.
-    Q3: Unreviewed events filtered using a not-equal operator on
-        review status, joining four tables.
-    Q4: Above-average magnitude earthquakes using subqueries in
-        both the SELECT and WHERE clauses.
+### SQL Analytics
+15+ queries demonstrating filtering, aggregation, and multi-table JOINs. Key 
+analytical queries include:
+- Deepest earthquake identification using subqueries across 4 joined tables
+- Above-average magnitude detection using subqueries in both `SELECT` and `WHERE`
+- Unreviewed event filtering across join chains
 
-Week 6 (Pandas Cleaning and Transformation):
-  Loaded a JOIN query result into pandas using pd.read_sql(). Applied
-  missing data handling (median fill for numeric columns, "Unknown"
-  for categoricals), dropped columns with entirely missing values,
-  standardized capitalization for type codes, converted timestamps
-  to datetime, and created derived columns for year and month.
+### Pandas Cleaning (Week 6)
+Loaded SQL query results into pandas via `pd.read_sql()`. Cleaning steps included 
+median imputation for numeric nulls, "Unknown" fill for categoricals, timestamp 
+conversion to datetime, and derived year/month columns for time-series analysis.
 
-Week 7 (ETL Pipeline):
-  Built an ETL pipeline that ingested an external river monitoring
-  dataset from the Pacific Northwest National Laboratory (PNNL).
-  Since the two datasets shared no common key, integration was
-  performed using a spatial nearest-neighbor join with
-  sklearn.neighbors.BallTree and the Haversine metric. A derived
-  proximity_category column classified each monitoring site by
-  distance to the nearest earthquake.
+### Spatial ETL Pipeline (Week 7)
+Integrated an external **PNNL river monitoring dataset** (681 sites) with no shared 
+key to the earthquake data. Used `sklearn.neighbors.BallTree` with the **Haversine 
+metric** for spatial nearest-neighbor joins — necessary to avoid distortion from 
+Euclidean distance on a spherical surface. Added a `proximity_category` column 
+classifying each monitoring site by distance to the nearest seismic event.
 
-Week 8 (Query Optimization):
-  Ran EXPLAIN QUERY PLAN on the Week 4 queries before and after
-  adding indexes. Built two pandas workflows mirroring the SQL
-  queries and tested optimization techniques including set_index(),
-  .query(), categorical dtypes, and pre-computed aggregates using
-  %%timeit.
+### Query Optimization (Week 8)
+Benchmarked all queries before/after indexing using `EXPLAIN QUERY PLAN` and 
+`%%timeit`. Key findings:
+- `idx_magnitude_event` on `MAGNITUDE_MEASUREMENT(event_id)` eliminated a full 
+  106k-row table scan
+- `idx_magnitude_value` produced three simultaneous gains: range search, covering 
+  index on subqueries, and eliminated a sort operation
+- Two indexes produced **no improvement** — one was redundant (SQLite auto-indexed 
+  via unique constraint), one was bypassed because a `!=` filter on a low-cardinality 
+  column made a full scan cheaper
 
+---
 
-Data Cleaning and Transformation Strategies
----------------------------------------------
-The raw CSV data was loaded into a staging table through a Python
-script (import_earthquakes.py), then migrated into the normalized
-schema using SQL transactions (populate_tables.sql). This two-step
-pipeline allowed validation at each stage before committing data to
-the final tables.
+## 💡 Key Takeaways
 
-In pandas (Week 6), the most important cleaning steps were:
-  - Handling missing values introduced by LEFT JOINs, using median
-    fill for measurement fields and "Unknown" for categoricals
-  - Standardizing capitalization on magnitude type codes so that
-    entries like "Md" and "md" were treated as a single category
-  - Dropping the type_name column, which contained entirely null
-    values after the JOIN
-  - Converting timestamp columns to proper datetime types, enabling
-    time-based feature engineering (year/month extraction)
+- **Indexing isn't always the answer** — optimizer behavior depends on filter type 
+  and column cardinality, not just query complexity
+- **Spatial joins work without shared keys** — Haversine + BallTree enables 
+  meaningful geographic integration across unrelated datasets
+- **Two-stage ingestion pays off** — staging → normalized migration allowed clean 
+  validation before any data was committed
 
-In the ETL pipeline (Week 7), the external dataset required column
-name normalization to snake_case, removal of PII contact fields and
-technical metadata flags, and imputation of missing categorical
-values with "Unknown" for completeness. A data source column was
-added for provenance tracking.
+---
 
+## 🛠️ Tech Stack
 
-Summary of Key Insights
-------------------------
-Indexing does not always improve performance. Two of our four new
-indexes in Week 8 produced no measurable improvement. One was
-redundant because SQLite had already created an automatic index on
-the column through a unique constraint. The other was bypassed by
-the optimizer because the WHERE clause used a not-equal filter on a
-low-cardinality column, and SQLite correctly determined a full scan
-was cheaper than an index lookup.
+| Layer | Tools |
+|---|---|
+| Database | SQLite 3 |
+| Language | Python 3, SQL |
+| Analysis | pandas, Jupyter Notebooks |
+| Spatial | scikit-learn (BallTree, Haversine) |
+| Visualization / Diagrams | draw.io (ERD) |
 
-The most impactful SQL index was idx_magnitude_event on
-MAGNITUDE_MEASUREMENT(event_id), which eliminated a full table scan
-of 106,000 rows. The idx_magnitude_value index on magnitude_value
-produced three simultaneous improvements: replacing a scan with a
-range search, converting subquery scans to a covering index, and
-eliminating a sort operation.
+---
 
-In pandas, set_index() and pre-computed aggregates were the most
-reliable optimizations. Categorical encoding showed minimal benefit
-on small reference tables but would scale well with larger datasets.
+## 📂 Data Sources
 
-The spatial join in Week 7 revealed that proximity-based integration
-is viable even without shared keys, and that Haversine distance is
-necessary for accurate geographic calculations on a spherical surface.
-
-
-Challenges and Decisions
--------------------------
-Our database was already well-optimized from prior weeks. The original
-schema included nine custom indexes built as part of the Week 3 design.
-To produce an honest before/after comparison for Week 8, we stripped
-all custom indexes to create a clean baseline (earthquake_no_indexes.db)
-and then re-added them to a separate copy (earthquake_with_indexes.db).
-
-The Week 7 ETL integration required a spatial join because the
-earthquake dataset and the PNNL river monitoring dataset shared no
-common key. The only shared attributes were latitude and longitude,
-which required the Haversine metric to avoid distortion from Euclidean
-distance on a spherical surface.
-
-LEFT JOINs in the Week 6 query introduced missing values that were
-not present in the individual source tables. This required additional
-cleaning in pandas that would not have been necessary with INNER JOINs
-alone, but LEFT JOINs were used intentionally to preserve rows and
-expose missing data patterns.
-
-
-Tools and Collaboration
-------------------------
-Tools:
-  - SQLite 3 for the relational database
-  - Python 3.x with pandas for data analysis and cleaning
-  - Jupyter Notebooks for interactive analysis (Weeks 6, 7, 8)
-  - scikit-learn (BallTree, Haversine) for spatial joins in Week 7
-  - EXPLAIN QUERY PLAN and %%timeit for performance measurement
-  - draw.io for the Entity-Relationship Diagram
-
-Data Sources:
-  - Kaggle: Historical Global Seismic Events Database (1826-2026),
-    106,077 records x 19 attributes
-  - PNNL: River Monitoring Geospatial Site Information (681 sites)
-
-Technical Notes:
-  - Date/Time Format: ISO 8601 (YYYY-MM-DD HH:MM:SS), UTC
-  - Coordinate System: WGS84 decimal degrees
-  - Foreign Keys: Enabled via PRAGMA foreign_keys = ON
-  - Transactions: Used in populate_tables.sql for atomicity
+- **Kaggle** — Historical Global Seismic Events (1826–2026): 106,077 records × 19 attributes
+- **PNNL** — Pacific Northwest River Monitoring Sites: 681 geospatial records
